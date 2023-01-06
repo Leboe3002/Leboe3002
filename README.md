@@ -4,7 +4,7 @@
 ## - 💞️ I’m looking to collaborate on everything yes , please guys we all new ,so all help I can get ,I'll be happy 
 ## - 📫 How to reach me goto my email og.leboe@gmail.com
 ## - 📞 WhatsApp at 0794443002
-## - 📞 altinative 0715678367
+## - 📞 alternative 0715678367
 
 <!---
 Leboe3002/Leboe3002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
