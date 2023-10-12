@@ -5,7 +5,7 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Leboe</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a ALX Student 💻, still Learning, C++, Java, python, 👩‍💻 !
+I'm a ALX Frontend 💻, Cohort 9 Student, C++, Java, python, 👩‍💻 !
 </h2> 
 
 I love the current me whose pationate about this carrer. I love the challenge of learning new things and spending time to meet new people. Learning how people do their projets, its interesting you'll reliase that we all have unique ways on tackling and delivering our own work. 
@@ -13,7 +13,7 @@ I love the current me whose pationate about this carrer. I love the challenge of
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/
-leboe-oarabile-godfrey-b1457a1b3
+leboe-oarabile-godfrey-b1457a1b3"
 /"><img align="left" src="https://raw.githubusercontent.com/https://medium.com/@og.leboe/https://medium.com/@og.leboe/main/images/linkedin.svg" alt="Leboe Godfrey | LinkedIn" width="21px"/></a>
 
 
@@ -27,13 +27,17 @@ leboe-oarabile-godfrey-b1457a1b3
 - My next blog & Portfolio
 - My CSS skill
 - My Javascript skill
+- Frontend Projets
+- ConnectME Video app
 
-## 🌱 I'm currently learning
+## 🌱 I complited this languages
 
-- 📱 C, Python and other programming language
+- 📱 C, Python
 - React js
 - Sass (Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. SassScript is the scripting language itself.)
-- Node js 
+- Node js
+- Html
+- Webstack
 
 
 ## 💼 Technical Skills
