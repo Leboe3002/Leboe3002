@@ -1,8 +1,8 @@
 
 
-<h5 align="center">
+<h1 align="center">
 Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Leboe</a> 👋
-</h5>
+</h1>
 
 <h2 align="center">
 I'm a ALX Frontend 💻, Cohort 9 Student, C++, Java, python, 👩‍💻 !
