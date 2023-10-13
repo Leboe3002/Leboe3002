@@ -36,8 +36,6 @@ leboe-oarabile-godfrey-b1457a1b3
 - React js
 - Sass (Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. SassScript is the scripting language itself.)
 - Node js
-- Html
-- Webstack
 
 
 ## 💼 Technical Skills
